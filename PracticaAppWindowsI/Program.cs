@@ -13,7 +13,7 @@ namespace PracticaAppWindowsI
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        { //COMENTARIO PRUEBA GITHUB
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmInicial());
